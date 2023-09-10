@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "demo.author",
+      "type": "java.lang.String",
+      "description": "Demo的作者"
+    },
+    {
+      "name": "demo.description",
+      "type": "java.lang.String",
+      "description": "Demo的描述"
+    }
+  ]
+}

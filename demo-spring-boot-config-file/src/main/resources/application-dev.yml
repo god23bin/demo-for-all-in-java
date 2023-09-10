@@ -1,0 +1,27 @@
+server:
+  port: 4790
+
+game:
+  name: GTA5
+
+great:
+  game: ${game.name}
+
+# 自定义的配置
+demo:
+  author: god23bin
+  description: 点个免费的赞，我能开心好久！
+
+# 自定义的配置
+system:
+  demo:
+    name: 超级系统
+    version: 1.0
+
+# 设置编码
+spring:
+  http:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
