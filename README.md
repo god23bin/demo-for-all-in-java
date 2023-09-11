@@ -16,7 +16,7 @@
 
 - 验证码功能的实现 Demo：[说说验证码功能的实现](https://juejin.cn/post/7241511003007533093)
 
-- Spring Boot 中使用 Poi-tl 渲染数据并生成 Word 文档的 Demo：文章还在准备中
+- Spring Boot 中使用 Poi-tl 渲染数据并生成 Word 文档的 Demo：[Spring Boot 中使用 Poi-tl 渲染数据并生成 Word 文档](https://juejin.cn/post/7276696853893496884)
 
 ## 最后
 
